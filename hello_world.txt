@@ -1,3 +1,5 @@
+I made changes for the GIT ex4 Q6 by adding this line.  
+
 orem ipsum dolor sit amet,
 consectetuer adipiscing elit.
 <<<<<<< HEAD
