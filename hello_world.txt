@@ -1,7 +1,12 @@
-Lorem ipsum dolor sit amet,
+orem ipsum dolor sit amet,
 consectetuer adipiscing elit.
+<<<<<<< HEAD
  commodo ligula eget dolor.
  massa.
+=======
+ commodo ligula eget dolor.
+ massa.
+>>>>>>> 73695ce2b278aea8e293d628542ec74fb314b24b
 Cum sociis natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
